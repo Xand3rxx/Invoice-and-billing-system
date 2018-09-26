@@ -14,4 +14,4 @@ A simple Inventory and Billing System with PDF Dwonwload.
 2. Open `db_config.php` and fill up your MySql PDO configuration.
 
 # PDF
-Download DOMPDF and configure its UI with printInvoice.php
+Design PDF UI with printInvoice.php
